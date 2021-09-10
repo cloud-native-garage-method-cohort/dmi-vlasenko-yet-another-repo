@@ -18,4 +18,3 @@ spec:
     app.kubernetes.io/name: express-sample-app
   sessionAffinity: None
   type: ClusterIP
-
