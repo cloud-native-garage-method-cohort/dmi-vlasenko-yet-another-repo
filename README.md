@@ -1,2 +1,2 @@
-# dvi-vlasenko-yet-another-repo
+# dmi-vlasenko-yet-another-repo
 Repo with various YAMLs
